@@ -2,7 +2,12 @@
 # Sales Insight Dashboard (Power BI + SQL)
 
 ## Description
-An interactive dashboard built using Power BI and SQL Server to analyze and visualize sales data. It includes key insights like total sales, regional performance, top-selling products, and sales trends over time.
+The Sales Insight Dashboard is a data-driven analytics project designed to provide clear and actionable insights into sales performance, customer behavior, and product trends. Built using Power BI and SQL, this project aims to support data-informed decision-making for marketing, sales strategy, and inventory management.
+
+## Technologies Used
+- Power BI for data visualization and dashboard creation
+
+- SQL for data extraction, transformation, and loading (ETL)
 
 ## Features
 - Total sales and revenue trends
